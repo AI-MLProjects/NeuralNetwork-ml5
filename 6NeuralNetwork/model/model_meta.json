@@ -1,0 +1,1 @@
+{"data":{"inputMin":[77,102],"inputMax":[295,376],"outputMin":0,"outputMax":1},"meta":{"inputUnits":2,"outputUnits":2,"inputs":{"input0":{"dtype":"number"},"input1":{"dtype":"number"}},"outputs":{"output0":{"dtype":"string","uniqueValues":["C","D"],"legend":{"C":[1,0],"D":[0,1]}}},"isNormalized":true}}
